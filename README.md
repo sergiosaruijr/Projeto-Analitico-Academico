@@ -1,5 +1,8 @@
 # Analítico Acadêmico
-https://github.com/sergiosaruijr/Projeto-Analitico-Academico/issues/1#issue-1563320565
+
+<div> 
+    <img src="https://user-images.githubusercontent.com/54729444/215613931-de047fdd-de19-4fb9-b492-acfa0d78b968.png" with="500px"/>
+</div>
 
 
 ## Introdução
