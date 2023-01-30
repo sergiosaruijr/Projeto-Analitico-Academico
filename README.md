@@ -1,7 +1,7 @@
 # Analítico Acadêmico
 
 <div> 
-    <img src="https://user-images.githubusercontent.com/54729444/215613931-de047fdd-de19-4fb9-b492-acfa0d78b968.png" with="500px"/>
+    <img src="https://user-images.githubusercontent.com/54729444/215614567-78df9bf2-aee4-4c3d-9870-52b61bf91f14.PNG" width="400px"/>
 </div>
 
 
