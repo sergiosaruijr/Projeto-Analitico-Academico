@@ -1,0 +1,6 @@
+.teste{
+    background-image: url('../../../public/css/custom.css');
+    background-image: url('../../imgs/list.svg');
+    background-image: url('../../imgs/inicio.PNG');
+    background-image: url('../events/create');
+}

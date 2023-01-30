@@ -1,0 +1,19 @@
+/*
+ * Footer
+ */
+ .footer {
+  padding: 2.5rem 0;
+  color: rgb(250, 250, 250);
+  text-align: center;
+  background-color: #FF974D;
+  
+}
+
+.footer a{
+  
+  color: rgb(168, 31, 31);
+}
+
+.footer p:last-child {
+  margin-bottom: 0;
+}
