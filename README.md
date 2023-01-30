@@ -1,7 +1,15 @@
 # Analítico Acadêmico
 
-<div> 
-    <img src="https://user-images.githubusercontent.com/54729444/215614567-78df9bf2-aee4-4c3d-9870-52b61bf91f14.PNG" width="400px"/>
+<div align="center"> 
+    <img src="https://user-images.githubusercontent.com/54729444/215614567-78df9bf2-aee4-4c3d-9870-52b61bf91f14.PNG" width="450px"/>
+    <img src="https://user-images.githubusercontent.com/54729444/215615000-20056e48-de61-45a2-8f7d-d71300a89472.PNG" width="460px"/>
+    <img src="" width="460px"/>
+    <img src="" width="460px"/>
+    <img src="" width="460px"/>
+    <img src="" width="460px"/>
+    <img src="" width="460px"/>
+    <img src="" width="460px"/>
+    
 </div>
 
 
